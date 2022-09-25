@@ -16,4 +16,4 @@ Pandas, jupyter
 Matplotlib, seaborn
 
 #Contributing Members
-@sherwan-m, @kaylamalik and Daniel Danielides -https://www.linkedin.com/in/danieldanielides 
+[@sherwan-m](https://github.com/sherwan-m), [@kaylamalik](https://github.com/kaylamalik), [@orjadamucollari](https://github.com/orjadamucollari) and [Daniel Danielides](https://www.linkedin.com/in/danieldanielides) 

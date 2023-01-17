@@ -17,16 +17,16 @@ Make a recommendation on further discount practice
 
 
 🔹  Methods Used
-  ▪ Data Cleaning
-  ▪ Descriptive Statistics
-  ▪ Data Visualization
+  * Data Cleaning </br>
+  * Descriptive Statistics </br>
+  * Data Visualization </br>
   
 🔹  Technologies
-  ▪ Python
-    ▪ Pandas
-    ▪ Matplotlib
-    ▪ Seaborn
-  ▪ Jupyter Notebook
+  * Python </br>
+    * Pandas </br>
+    * Matplotlib </br>
+    * Seaborn </br>
+  * Jupyter Notebook
   
 
 👨‍🔬 Contributing Members 👩‍🔬 </br>
